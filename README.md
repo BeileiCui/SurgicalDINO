@@ -1,6 +1,6 @@
 # [IPCAI'2024] Surgical-DINO: Adapter Learning of Foundation Model for Depth Estimation in Endoscopic Surgery
 
-
+![Image](https://github.com/BeileiCui/SurgicalDINO/blob/main/main_figure.jpg)
 
 
 ## Introduction
