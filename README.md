@@ -34,3 +34,9 @@ We are focusing on self-supervised learning now so we only provide the __Surgica
 |__Surgical-DINO Supervised (Ours)__ | __0.053__ | __0.377__ | __4.296__ | __0.074__ | __0.975__ |
 
 ## Initialization
+You can use your own environment cause Surgical-DINO only requires torch and transformer. 
+
+You can also build up the environment as instructed by [dinov2](https://github.com/facebookresearch/dinov2) and install transformer by ```pip install transformer```.
+
+## Citation
+If you found our paper our results helpful, please consider citing our paper as follows:
