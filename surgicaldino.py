@@ -5,7 +5,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.nn.parameter import Parameter
 
-# from mmcv.cnn import ConvModule
 from transformers.modeling_outputs import DepthEstimatorOutput
 
 def resize(input, size=None, scale_factor=None, mode="nearest", align_corners=None, warning=False):
