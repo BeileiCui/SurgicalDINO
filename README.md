@@ -19,7 +19,7 @@ We are focusing on self-supervised learning now so we only provide the Surgical-
 
 ## Results
 
-| Method | Abs Rel | Sq Rel | RMSE | RMSE log | &delta |
+| Method | Abs Rel | Sq Rel | RMSE | RMSE log | &delta; |
 |  :----:  | :----:  | :----:   |  :----:  | :----:  | :----:  |
 | SfMLearner | 0.079 |	0.879 |	6.896 |	0.110 |	0.947 |
 
