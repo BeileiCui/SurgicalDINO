@@ -602,8 +602,10 @@ if __name__ == "__main__":
     
     surgicaldino.train()
 
+    # test input image and input gt_depth(optional)
     test = torch.randn([1, 3, 224, 224]).to(device)
     depth_gt = torch.randint(low=10, high=100, size=[1, 1, 224, 224]).to(device)
+    
     output = surgicaldino(pixel_values = test, depth_gt = depth_gt)
     print("output max: ", output.predicted_depth.max(), "output min: ", output.predicted_depth.min())
     print("output shape: ", output.predicted_depth.shape)
