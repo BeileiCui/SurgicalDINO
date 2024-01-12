@@ -15,7 +15,7 @@ __Results:__ Our model is extensively validated on a MICCAI challenge dataset of
 __Conclusion:__ Surgical-DINO shed some light on the successful adaptation of the foundation models into the surgical domain for depth estimation. There is clear evidence in the results that zero-shot prediction on pre-trained weights in computer vision datasets or naive fine-tuning is not sufficient to use the foundation model in the surgical domain directly.
 
 ## Notes
-We are focusing on self-supervised learning now so we only provide the Surgical-DINO model and corresponding losses here. You can easily adapt our model to your current or other baselines to start training. We also provide the results on [SCARED Dataset](https://endovissub2019-scared.grand-challenge.org/) with the splits in [AF-SfMLearner](https://github.com/ShuweiShao/AF-SfMLearner) shown below.
+We are focusing on self-supervised learning now so we only provide the __Surgical-DINO model__ and __corresponding losses__ in ```./surgicaldino.py```.We provide an example on how to use it so you can easily adapt our model to your current or other baselines to start training. We also provide the results on [SCARED Dataset](https://endovissub2019-scared.grand-challenge.org/) with the splits in [AF-SfMLearner](https://github.com/ShuweiShao/AF-SfMLearner) below.
 
 ## Results
 
