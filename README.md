@@ -22,6 +22,12 @@ We are focusing on self-supervised learning now so we only provide the Surgical-
 | Method | Abs Rel | Sq Rel | RMSE | RMSE log | &delta; |
 |  :----:  | :----:  | :----:   |  :----:  | :----:  | :----:  |
 | SfMLearner | 0.079 |	0.879 |	6.896 |	0.110 |	0.947 |
-
-
+| Fang et al. | 0.078 |	0.794 |	6.794 |	0.109 |	0.946 |
+| Defeat-Net | 0.077 |	0.792 |	6.688 |	0.108 |	0.941 |
+| SC-SfMLeaner |0.068 |	0.645 |	5.988 |	0.097 |	0.957 |
+| Monodepth2 | 0.071 |	0.59 |	5.606 |	0.094 |	0.953 |
+| Endo-SfM | 0.062 |	0.606 |	5.726 |	0.093 |	0.957 |
+| AF-SfMLeaner | 0.059 |	0.435 |	4.925 |	0.082 |	0.974 |
+|__Surgical-DINO SSL (Ours)__ |__0.058__ |	__0.433__ |	__4.904__ |	__0.081__ |	__0.972__ | 
+|__Surgical-DINO Supervised (Ours)__ | __0.053__ | __0.377__ | __4.296__ | __0.074__ | __0.975__ |
 ## Initialization
