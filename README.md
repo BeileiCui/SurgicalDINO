@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/BeileiCui/SurgicalDINO/blob/main/main_figure.jpg)
 
-
+### [__[arxiv]__](https://arxiv.org/abs/2401.06013)
 ## Introduction
 This is the implementation for our __Surgical-DINO__. 
 
