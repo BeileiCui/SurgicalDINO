@@ -40,3 +40,11 @@ You can also build up the environment as instructed by [dinov2](https://github.c
 
 ## Citation
 If you found our paper our results helpful, please consider citing our paper as follows:
+```
+@article{beilei2024surgical,
+  title={Surgical-DINO: Adapter Learning of Foundation Model for Depth Estimation in Endoscopic Surgery},
+  author={Cui, Beilei and Islam, Mobarakol and Bai, Long and Ren, Hongliang},
+  journal={arXiv preprint arXiv:2401.06013},
+  year={2024}
+}
+```
