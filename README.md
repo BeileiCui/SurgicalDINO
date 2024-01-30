@@ -33,6 +33,7 @@ We are focusing on self-supervised learning now so we only provide the __Surgica
 |__Surgical-DINO SSL (Ours)__ |__0.058__ |	__0.433__ |	__4.904__ |	__0.081__ |	__0.972__ | 
 |__Surgical-DINO Supervised (Ours)__ | __0.053__ | __0.377__ | __4.296__ | __0.074__ | __0.975__ |
 
+Note: SSL refers to Self-Supervised Learning method.
 ## Initialization
 You can use your own environment cause Surgical-DINO only requires torch and transformer. 
 
