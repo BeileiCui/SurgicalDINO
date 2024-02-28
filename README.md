@@ -30,7 +30,7 @@ We are focusing on self-supervised learning now so we only provide the __Surgica
 | AF-SfMLeaner | 0.059 |	0.435 |	4.925 |	0.082 |	0.974 |
 | DINOv2 (zero-shot) | 0.088 | 0.963 | 7.447 | 0.120 | 0.933 |
 | DINOv2 (fine-tuned) | 0.060 | 0.459 | 4.692 | 0.081 | 0.963 |
-|__Surgical-DINO SSL (Ours)__ |__0.058__ |	__0.433__ |	__4.904__ |	__0.081__ |	__0.972__ | 
+|__Surgical-DINO SSL (Ours)__ |__0.059__ |	__0.427__ |	__4.904__ |	__0.081__ |	__0.974__ | 
 |__Surgical-DINO Supervised (Ours)__ | __0.053__ | __0.377__ | __4.296__ | __0.074__ | __0.975__ |
 
 Note: SSL refers to Self-Supervised Learning method.
