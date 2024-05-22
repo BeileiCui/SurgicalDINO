@@ -3,6 +3,8 @@
 ![Image](https://github.com/BeileiCui/SurgicalDINO/blob/main/main_figure.jpg)
 
 ### [__[arxiv]__](https://arxiv.org/abs/2401.06013) [__[paper]__](https://links.springernature.com/f/a/Oq3zaVfPV2ar861oFWImTA~~/AABE5gA~/RgRnzg_NP0SiaHR0cHM6Ly9saW5rLnNwcmluZ2VyLmNvbS8xMC4xMDA3L3MxMTU0OC0wMjQtMDMwODMtNT91dG1fc291cmNlPXJjdF9jb25ncmF0ZW1haWx0JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW9hXzIwMjQwMzA4JnV0bV9jb250ZW50PTEwLjEwMDcvczExNTQ4LTAyNC0wMzA4My01VwNzcGNCCmXqzYrrZQcskYRSGmJlaWxlaWN1aUBsaW5rLmN1aGsuZWR1LmhrWAQAAAct)
+
+* 2024-05-14 Our new paper for adapting the foundation model for self-supervised depth estimation [__EndoDAC__](https://github.com/BeileiCui/EndoDAC) has been provisional accepted for MICCAI 2024!
 ## Introduction
 This is the implementation for our __Surgical-DINO__. 
 
